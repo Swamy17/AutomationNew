@@ -17,6 +17,7 @@ public class Test5 {
 		a.m1(8);
 		a.m1(9);
 		a.m1(100);
+		a.m1(20);
 		
 
 	}
