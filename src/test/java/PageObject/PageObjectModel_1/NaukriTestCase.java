@@ -38,4 +38,10 @@ public class NaukriTestCase extends MasterPage {
 	
 
 }
+	
+	@Test
+	public void init()
+	{
+		System.out.println("Added a new method initilization");
+	}
 }
