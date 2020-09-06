@@ -47,6 +47,7 @@ public class NaukriHomePage extends MasterPage
 		enterText(eltUserName,"tkumaraswamy.qa@gmail.com");
 		enterText(eltPassword,"Krishna**248");
 		clickButton(eltLoginBtn,"ClickonButton");
+		System.out.println("updating from GITHUB");
         //actionMethods(driver,eltUserName);
         windowHandling(driver);
 	}
