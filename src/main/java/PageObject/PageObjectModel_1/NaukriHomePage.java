@@ -43,6 +43,7 @@ public class NaukriHomePage extends MasterPage
 		//enterText();
 		clickButton(eltlogin,"ClickonButton");
 		waitForObject(driver);
+		System.out.println("Im in userName method");
 		enterText(eltUserName,"tkumaraswamy.qa@gmail.com");
 		enterText(eltPassword,"Krishna**248");
 		clickButton(eltLoginBtn,"ClickonButton");
