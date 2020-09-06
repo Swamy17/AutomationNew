@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16166" started-at="2020-08-20T14:36:11Z" finished-at="2020-08-20T14:36:27Z">
+  <suite name="Default suite" duration-ms="14951" started-at="2020-09-02T13:11:02Z" finished-at="2020-09-02T13:11:17Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16166" started-at="2020-08-20T14:36:11Z" finished-at="2020-08-20T14:36:27Z">
+    <test name="Default test" duration-ms="14951" started-at="2020-09-02T13:11:02Z" finished-at="2020-09-02T13:11:17Z">
       <class name="PageObject.PageObjectModel_1.NaukriTestCase">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:PageObject.PageObjectModel_1.NaukriTestCase@14acaea5]" name="setUp" is-config="true" duration-ms="8278" started-at="2020-08-20T14:36:11Z" finished-at="2020-08-20T14:36:19Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:PageObject.PageObjectModel_1.NaukriTestCase@29774679]" name="setUp" is-config="true" duration-ms="8076" started-at="2020-09-02T13:11:02Z" finished-at="2020-09-02T13:11:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="m1()[pri:0, instance:PageObject.PageObjectModel_1.NaukriTestCase@14acaea5]" name="m1" duration-ms="7857" started-at="2020-08-20T14:36:19Z" finished-at="2020-08-20T14:36:27Z">
+        <test-method status="PASS" signature="m1()[pri:0, instance:PageObject.PageObjectModel_1.NaukriTestCase@29774679]" name="m1" duration-ms="6843" started-at="2020-09-02T13:11:10Z" finished-at="2020-09-02T13:11:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- m1 -->

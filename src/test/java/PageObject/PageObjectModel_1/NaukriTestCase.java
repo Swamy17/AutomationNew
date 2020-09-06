@@ -34,8 +34,22 @@ public class NaukriTestCase extends MasterPage {
 	//Thread.sleep(2000);
 		
 		homePage.enterUserName();
+	}
 	
+	@Test
+	public void init()
+	{
+		System.out.println("Added a new method initilization");
+	}
+	@Test
+	public void Begin()
+	{
+		System.out.println("Added a Begin Method");
+		}
 	
-
-}
+	@Test
+	public void Start()
+	{
+		System.out.println("Added a new method initilization");
+	}
 }
